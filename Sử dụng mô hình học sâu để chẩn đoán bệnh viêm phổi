@@ -1,0 +1,13 @@
+TẢI LIỆU THAM KHẢO:
+1. Tập dữ liệu mà chúng tôi sử dụng trong đồ án là Chest X-Ray Images(Pneumonia)
+Data: Chest X-Ray Images( Pneumonia) / http://surl.li/dsvuj
+2. Cơ sở y tế của ảnh X-quang phổi
+https://tamanhhospital.vn/chup-xquang-phoi/
+3. Prneumonia Detection using Transfer Learning
+https://www.kaggle.com/code/hudasaleh1/pneumonia-detection-using-transfer-learning
+4. Lung cancer Detection using CNN
+https://www.kaggle.com/code/tarunm561/lung-cancer-detection-using-cnn
+5. Automated Methods for Detection and Classification Pneumonia  Based on X-Ray Images Using Deep Learning
+https://www.researchgate.net/publication/340331870_Automated_Methods_for_Detection_and_Classification_Pneumonia_based_on_X-Ray_Images_Using_Deep_Learning
+6. Phát hiện COVID-19 và viêm phổi bàng ảnh X-quang sử dụng mạng Neural tích chập
+https://github.com/DTA-UIT/Detect-COVID19/tree/main/Report
